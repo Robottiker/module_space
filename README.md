@@ -1,2 +1,2 @@
-# module_space
+# Module: Space
 Modular space
