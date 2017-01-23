@@ -5,14 +5,19 @@ Drill holes around screws, then pop out panels.
 Use 80 or 60 sanding disc with a grinder.
 3. **Grind rust away**  
 Use 80 or 60 sanding disc with a grinder.
-4. **Apply rust converter**  
-Paint the grinded spots with a rust converter.
-5. **Apply zink primer**  
-*Paint zink primer on the grinded spots.*
-6. **Seal floor with plates**  
+5. **Apply rust converter**  
+Paint the grinded spots with a rust converter.  
+Clean grinded spots before applying the rust converter.
+4. **Clean container**  
+Remove dust/dirt and rust converter leftovers from the surface.  
+Like washing a car.
+6. **Apply zink primer**  
+*Paint zink primer on the grinded spots.*  
+*Clean spots with alcohol before painting.*
+7. **Seal floor with plates**  
 *Weld metal plates on the floor*
-7. **Basic floor**  
+8. **Basic floor**  
 *Lay insulation matt (ca. 1cm Aerogel) on the floor*  
 *Lay a rubber matt*
-8. **Standartized room**  
+9. **Standartized room**  
 *Jam on Aluminium profiles into the container, to create a fixed sized room*
