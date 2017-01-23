@@ -12,8 +12,8 @@ Clean grinded spots before applying the rust converter.
 Remove dust/dirt and rust converter leftovers from the surface.  
 Like washing a car.
 6. **Apply zink primer**  
-*Paint zink primer on the grinded spots.*  
-*Clean spots with alcohol before painting.*
+Paint zink primer on the grinded spots.  
+Roughen the spots and clean with alcohol before painting.
 7. **Seal floor with plates**  
 *Weld metal plates on the floor*
 8. **Basic floor**  
