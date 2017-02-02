@@ -15,7 +15,8 @@ Like washing a car.
 Paint zink primer on the grinded spots.  
 Roughen the spots and clean with alcohol before painting.
 7. **Seal floor with plates**  
-*Weld metal plates on the floor*
+*Make PET panels or buy PVC panels to install basic floor.*  
+*Also find a way to seal of panels, ex. use molten HDPE/PET or similar to seal the openings.*
 8. **Basic floor**  
 *Lay insulation matt (ca. 1cm Aerogel) on the floor*  
 *Lay a rubber matt*
